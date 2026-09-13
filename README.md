@@ -44,11 +44,9 @@ The project transforms CPI data into interactive visualizations that help users 
 
 - Microsoft Excel
 - Power BI
-- DAX
 - Data Analysis
 - Data Visualization
 - Python
-- Pandas
 - SQL / MySQL
 - IT Support
 - Microsoft 365
